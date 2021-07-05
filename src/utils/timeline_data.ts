@@ -32,7 +32,7 @@ const data: Data[] = [
     type: "Dia de planejamento",
     date: "06/07 - Terça feira",
     content:
-      "O terceiro dia será o de apresentação do projeto, e onde o time deverá entregar um documento contendo o que foi decidido, qual aplicação será construída, qual problema irá resolver e também quais ferramentas o grupo irá utilizar no dia a dia. Esse será também um bom dia para iniciar a construção do JSON Server.",
+      "O terceiro dia será de apresentação do projeto, o time deverá entregar um documento contendo o que foi decidido, qual aplicação será construída, qual problema irá resolver e também quais ferramentas o grupo irá utilizar no dia a dia. Esse será também um bom dia para iniciar a construção do JSON Server.",
     week: "Primeira semana",
     hasAssignment: true,
     itemAssignment: 'https://alunos.kenzie.com.br/courses/35/assignments/7322?module_item_id=8392'

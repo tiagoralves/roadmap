@@ -45,7 +45,7 @@ export default function Home({ content }) {
             <p>{item.content}</p>
             {item.hasAssignment && (
               <Button onClick={() => clickHandle(item.itemAssignment)}>
-                Link da entrega
+                Acessar Conteúdo
               </Button>
             )}
           </VerticalTimelineElement>
