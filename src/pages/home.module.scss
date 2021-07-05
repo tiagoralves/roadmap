@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  h4 {
+    font-weight: 500;
+  }
+
+  h1 {
+    margin-bottom: 1.2rem;
+    svg {
+      transform: translateY(4px);
+    }
+  }
+}
+
+.planning {
+  font-weight: 900;
+  color: #eee785;
+}
+
+.code {
+  font-weight: 900;
+  color: #007aff;
+}
