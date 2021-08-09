@@ -36,7 +36,7 @@ const data: Data[] = [
       "O terceiro dia será o primeiro dia em que o grupo irá começar a codar. Após separar as tasks, mapear requisitos, entender o problema, e todos estarem entendendo a solução, é dada a largada para abrir o seu editor e botar a mão na massa. No terceiro dia todos os membros devem entregar o planejamento.",
     week: "Primeira semana",
     hasAssignment: true,
-    itemAssignment: 'https://alunos.kenzie.com.br/courses/48/assignments/7180?module_item_id=8120'
+    itemAssignment: 'https://alunos.kenzie.com.br/courses/48/assignments/7177?module_item_id=8119'
   },
   {
     title: "4° dia do projeto",
