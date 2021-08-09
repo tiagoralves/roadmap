@@ -24,19 +24,19 @@ const data: Data[] = [
     type: "Dia de planejamento",
     date: "10/08 - terça-feira",
     content:
-      "O segundo dia do projeto deve continuar com o planejamento, tentando elencar uma melhor ideia e continuar o brainstorming do projeto. No segundo dia todos os membros devem entregar o planejamento",
+      "O segundo dia do projeto deve continuar com o planejamento, tentando elencar uma melhor ideia e continuar o brainstorming do projeto.",
     week: "Primeira semana",
-    hasAssignment: true,
-    itemAssignment: 'https://alunos.kenzie.com.br/courses/48/assignments/7180?module_item_id=8120'
+    hasAssignment: false,
   },
   {
     title: "3° dia do projeto",
     type: "Dia de código e gerenciamento",
     date: "11/08 - quarta-feira",
     content:
-      "O terceiro dia será o primeiro dia em que o grupo irá começar a codar. Após separar as tasks, mapear requisitos, entender o problema, e todos estarem entendendo a solução, é dada a largada para abrir o seu editor e botar a mão na massa.",
+      "O terceiro dia será o primeiro dia em que o grupo irá começar a codar. Após separar as tasks, mapear requisitos, entender o problema, e todos estarem entendendo a solução, é dada a largada para abrir o seu editor e botar a mão na massa. No terceiro dia todos os membros devem entregar o planejamento.",
     week: "Primeira semana",
-    hasAssignment: false,
+    hasAssignment: true,
+    itemAssignment: 'https://alunos.kenzie.com.br/courses/48/assignments/7180?module_item_id=8120'
   },
   {
     title: "4° dia do projeto",
@@ -67,7 +67,7 @@ const data: Data[] = [
   {
     title: "7° dia do projeto",
     type: "Dia de código e gerenciamento",
-    date: "17/08 - terça-feira",    
+    date: "17/08 - terça-feira",
     content:
       "O sétimo dia será um dia para a finalização de features e ajustes finais no código",
     week: "Segunda semana",
@@ -76,7 +76,7 @@ const data: Data[] = [
   {
     title: "8° dia do projeto",
     type: "Dia de código e gerenciamento",
-    date: "18/08 - quarta-feira",        
+    date: "18/08 - quarta-feira",
     content:
       "O oitavo dia é mais um dia focado no código, lembrando sempre de seguir o planejamento, reportar dificuldades e focar no MVP.",
     week: "Segunda semana",
@@ -85,7 +85,7 @@ const data: Data[] = [
   {
     title: "9° dia do projeto",
     type: "Dia de gerenciamento e entrega.",
-    date: "19/08 - quinta-feira",        
+    date: "19/08 - quinta-feira",
     content:
       "O nono dia é o dia final para a entrega do código, todos do grupo deverão enviar os links do repositório no Canvas contendo a solução proposta.",
     week: "Segunda semana",
@@ -94,7 +94,7 @@ const data: Data[] = [
   {
     title: "10° dia do projeto",
     type: "Dia de código",
-    date: "20/08 - sexta-feira",    
+    date: "20/08 - sexta-feira",
     content:
       "O Décimo dia, será o dia final do grupo trabalhando no Hábitos, o grupo deverá realizar a última retrospectiva e se preparar para partir para um próximo desafio! 🚀",
     week: "Segunda semana",
